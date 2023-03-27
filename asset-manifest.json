@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/project-topics-gen/static/css/main.b7d1e4b5.css",
+    "main.js": "/project-topics-gen/static/js/main.1f575cf2.js",
+    "static/js/787.ec704a7a.chunk.js": "/project-topics-gen/static/js/787.ec704a7a.chunk.js",
+    "static/media/wood_image.jpeg": "/project-topics-gen/static/media/wood_image.8efa50faa50dce17fc79.jpeg",
+    "index.html": "/project-topics-gen/index.html",
+    "main.b7d1e4b5.css.map": "/project-topics-gen/static/css/main.b7d1e4b5.css.map",
+    "main.1f575cf2.js.map": "/project-topics-gen/static/js/main.1f575cf2.js.map",
+    "787.ec704a7a.chunk.js.map": "/project-topics-gen/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7d1e4b5.css",
+    "static/js/main.1f575cf2.js"
+  ]
+}
